@@ -1,0 +1,14 @@
+c:\users\operador\documents\visual studio 2015\Projects\Kardex_1.1\Kardex_1.1\bin\Debug\Kardex_1.1.exe.config
+c:\users\operador\documents\visual studio 2015\Projects\Kardex_1.1\Kardex_1.1\obj\Debug\Kardex_1.1.csprojResolveAssemblyReference.cache
+c:\users\operador\documents\visual studio 2015\Projects\Kardex_1.1\Kardex_1.1\obj\Debug\Kardex_1._1.Form1.resources
+c:\users\operador\documents\visual studio 2015\Projects\Kardex_1.1\Kardex_1.1\obj\Debug\Kardex_1._1.Properties.Resources.resources
+c:\users\operador\documents\visual studio 2015\Projects\Kardex_1.1\Kardex_1.1\obj\Debug\Kardex_1.1.csproj.GenerateResource.Cache
+c:\users\operador\documents\visual studio 2015\Projects\Kardex_1.1\Kardex_1.1\bin\Debug\Kardex_1.1.exe
+c:\users\operador\documents\visual studio 2015\Projects\Kardex_1.1\Kardex_1.1\bin\Debug\Kardex_1.1.pdb
+c:\users\operador\documents\visual studio 2015\Projects\Kardex_1.1\Kardex_1.1\obj\Debug\Kardex_1.1.exe
+c:\users\operador\documents\visual studio 2015\Projects\Kardex_1.1\Kardex_1.1\obj\Debug\Kardex_1.1.pdb
+c:\users\operador\documents\visual studio 2015\Projects\Kardex_1.1\Kardex_1.1\obj\Debug\Kardex_1._1.Kardex_General.resources
+c:\users\operador\documents\visual studio 2015\Projects\Kardex_1.1\Kardex_1.1\obj\Debug\Kardex_1._1.Cap_Personal.resources
+C:\Users\operador\Documents\Visual Studio 2015\Projects\Kardex_1.1\kardex\Kardex_1.1\bin\Debug\Kardex_1.1.exe.config
+C:\Users\operador\Documents\Visual Studio 2015\Projects\Kardex_1.1\kardex\Kardex_1.1\obj\Debug\Kardex_1.1.exe
+C:\Users\operador\Documents\Visual Studio 2015\Projects\Kardex_1.1\kardex\Kardex_1.1\obj\Debug\Kardex_1.1.pdb
